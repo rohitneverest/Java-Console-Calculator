@@ -4,7 +4,7 @@ A simple console-based calculator in Java that performs addition, subtraction, m
 Features:
 
 Handles both integer and decimal numbers.|
-Displays integer results when inputs are whole numbers, otherwise shows decimals.|
+Displays integer results when both inputs are integers, otherwise shows decimals.|
 Supports multiple consecutive calculations with a loop.|
 Shows calculation number for each operation.|
 Simple, user-friendly console interface.
